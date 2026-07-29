@@ -3707,4 +3707,9 @@ body.rtl .elementor-196841 .elementor-element.elementor-element-1502b95 .element
 	}
 }
 
+
+.d_none{
+	display: none !important;
+}
+
 /* End custom CSS */
